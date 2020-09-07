@@ -79,9 +79,7 @@ section.full-page {
     float:right;
     position: absolute;
     top:5px;
-    width:50%;
-    background:green;
-    right:60px;
+    right:calc(10% + 60px);
 }
 
 .img-holder img {
