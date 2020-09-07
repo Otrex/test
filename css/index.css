@@ -42,7 +42,7 @@ section.full-page {
     width:70%; height: auto;
     position: absolute;
     top : 30%;
-    left: 20%;
+    right:0px;
     z-index:-1;
     background-color: #072448;
 }
