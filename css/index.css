@@ -79,6 +79,7 @@ section.full-page {
     float:right;
     position: absolute;
     top:5px;
+    right:60px;
 }
 
 .img-holder img {
