@@ -77,6 +77,8 @@ section.full-page {
 .menu-btn-holder {
     display: inline-block;
     float:right;
+    position: absolute;
+    top:5px;
 }
 
 .img-holder img {
